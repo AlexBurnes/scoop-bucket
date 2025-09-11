@@ -1,0 +1,22 @@
+{
+    "version": "0.5.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AlexBurnes/version-go/releases/download/v0.5.5/version_0.5.5_windows_amd64.zip",
+            "bin": [
+                "version.exe"
+            ],
+            "hash": "4209f97d8d7a44e48bd7105779a2fffb9704c6f3cb6353fb1880313b57f4022c"
+        },
+        "arm64": {
+            "url": "https://github.com/AlexBurnes/version-go/releases/download/v0.5.5/version_0.5.5_windows_arm64.zip",
+            "bin": [
+                "version.exe"
+            ],
+            "hash": "3b4a192095fb161a39161cda6ea93b0b0ded9cf4768365fc8474d54ee505bbed"
+        }
+    },
+    "homepage": "https://github.com/AlexBurnes/version-go",
+    "license": "MIT",
+    "description": "git describe-like CLI"
+}
