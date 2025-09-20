@@ -1,0 +1,22 @@
+{
+    "version": "1.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.0.3/pre-push_windows_amd64.zip",
+            "bin": [
+                "pre-push.exe"
+            ],
+            "hash": "0312e9412fd97d5c335038b387ab86d4a732b271ce166f1e9bd873b3942749dd"
+        },
+        "arm64": {
+            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.0.3/pre-push_windows_arm64.zip",
+            "bin": [
+                "pre-push.exe"
+            ],
+            "hash": "e1ba349f85a1e96ee53dddcd5b3add95bb21c9a95f439f56cd296f27c6f5974e"
+        }
+    },
+    "homepage": "https://github.com/AlexBurnes/pre-push",
+    "license": "Apache-2.0",
+    "description": "Cross-platform Git pre-push hook runner"
+}
