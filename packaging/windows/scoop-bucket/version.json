@@ -1,19 +1,19 @@
 {
-    "version": "0.8.22",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlexBurnes/version-go/releases/download/v0.8.22/version_windows_amd64.zip",
+            "url": "https://github.com/AlexBurnes/version-go/releases/download/v1.0.0/version_windows_amd64.zip",
             "bin": [
                 "version.exe"
             ],
-            "hash": "58ba7a3d0529684c604a686b73406aaaf8a082522f066c0ff453afa213bce9bb"
+            "hash": "9cfa26839fdda638f47377c8ddf7a5bd49004a4ffbd57d7f098f8fa22df322cb"
         },
         "arm64": {
-            "url": "https://github.com/AlexBurnes/version-go/releases/download/v0.8.22/version_windows_arm64.zip",
+            "url": "https://github.com/AlexBurnes/version-go/releases/download/v1.0.0/version_windows_arm64.zip",
             "bin": [
                 "version.exe"
             ],
-            "hash": "9beeca499b04806867fe22ca68b57e54a6076343273a63ab6016dfce8069fdb4"
+            "hash": "d3c7d2fa4bae60f5bb6adb544d840f1c83678f2864d6087a26ff429c6272e363"
         }
     },
     "homepage": "https://github.com/AlexBurnes/version-go",
