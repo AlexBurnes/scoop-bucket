@@ -1,19 +1,19 @@
 {
-    "version": "0.8.3",
+    "version": "0.8.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlexBurnes/buildfab/releases/download/v0.8.3/buildfab_windows_amd64.zip",
+            "url": "https://github.com/AlexBurnes/buildfab/releases/download/v0.8.4/buildfab_windows_amd64.zip",
             "bin": [
                 "buildfab.exe"
             ],
-            "hash": "2de88fa85416a3afc38710d573988b21b123f77de307761ceac1e54b2284c9f1"
+            "hash": "b0aac7127d5b3942a9336e730da80401d14a59e64e1aec4dcbbc1c6ef223132b"
         },
         "arm64": {
-            "url": "https://github.com/AlexBurnes/buildfab/releases/download/v0.8.3/buildfab_windows_arm64.zip",
+            "url": "https://github.com/AlexBurnes/buildfab/releases/download/v0.8.4/buildfab_windows_arm64.zip",
             "bin": [
                 "buildfab.exe"
             ],
-            "hash": "9624e5ed2d5ae1b221faa79097a66014c67962c730114736469f9b24d34d29c3"
+            "hash": "a26f1d8bf71205734dbade773896717084c702a7df34085952aef7ef0bff7112"
         }
     },
     "homepage": "https://github.com/AlexBurnes/buildfab",
