@@ -6,14 +6,14 @@
             "bin": [
                 "pre-push.exe"
             ],
-            "hash": "be875e9bafed5dc5ce62eb9d0ded2c223d1e84ca9d9b3d6325b6ef06c0e5292f"
+            "hash": "2b3d8998be16debf522bdd87bbf9f8b65b6a0059751b63eb27dd55243a22952e"
         },
         "arm64": {
             "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.9.0/pre-push_windows_arm64.zip",
             "bin": [
                 "pre-push.exe"
             ],
-            "hash": "517dbff1964521672c49b2f2a0f3f27cfee56a39d31a7cc972f775c2d2023a8c"
+            "hash": "1e95e464f2e379053954115e1821bf0a864e26bc7e65310dee2772858b8dc5c9"
         }
     },
     "homepage": "https://github.com/AlexBurnes/pre-push",
