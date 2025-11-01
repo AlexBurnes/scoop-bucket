@@ -6,14 +6,14 @@
             "bin": [
                 "buildfab.exe"
             ],
-            "hash": "fb87b82ca7bbab17c9dda6d6bdd932e2041449d5d0085fa38b8626ae4c87b2fc"
+            "hash": "27ee377d9b7a8a75c2c112fbbe1d07cfa49df015e06a67b4ea171eed5383afe2"
         },
         "arm64": {
             "url": "https://github.com/AlexBurnes/buildfab/releases/download/v0.30.4/buildfab_windows_arm64.zip",
             "bin": [
                 "buildfab.exe"
             ],
-            "hash": "2698dca405ccdb3a222a00bfa68a067e4b4e41fd40125f4d07ac6546a2cac658"
+            "hash": "d4a5ace6b1663a95a5cec32041c42fdd717738b0b99cce1c40685e6dc114738f"
         }
     },
     "homepage": "https://github.com/AlexBurnes/buildfab",
