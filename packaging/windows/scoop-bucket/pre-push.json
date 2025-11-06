@@ -1,19 +1,19 @@
 {
-    "version": "1.11.0",
+    "version": "1.11.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.11.0/pre-push_windows_amd64.zip",
+            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.11.1/pre-push_windows_amd64.zip",
             "bin": [
                 "pre-push.exe"
             ],
-            "hash": "acd25bae9dd1553068a00f4d70c4f02942dc550ce92e925949eb778c86fe65e4"
+            "hash": "4d1c7dae311a4782eef11852ca88331919e4f140702a63adb2cb47ba450dd180"
         },
         "arm64": {
-            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.11.0/pre-push_windows_arm64.zip",
+            "url": "https://github.com/AlexBurnes/pre-push/releases/download/v1.11.1/pre-push_windows_arm64.zip",
             "bin": [
                 "pre-push.exe"
             ],
-            "hash": "1286ff743ddd101ffe6444462564de38457a458917370d4f6ef9a69692024aca"
+            "hash": "4a4942577c1de1cfe6c569705980e9078491cc62296408752ce875cd9c774a90"
         }
     },
     "homepage": "https://github.com/AlexBurnes/pre-push",
